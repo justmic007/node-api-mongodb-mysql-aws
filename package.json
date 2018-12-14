@@ -1,0 +1,27 @@
+{
+  "name": "api-mongodb-mysql-aws",
+  "version": "1.0.0",
+  "description": "A node restful products API that uses mongodb and hosted on the AWS cloud",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/justmic007/node-api-mongodb-mysql-aws.git"
+  },
+  "keywords": [
+    "node",
+    "restful",
+    "api"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/justmic007/node-api-mongodb-mysql-aws/issues"
+  },
+  "homepage": "https://github.com/justmic007/node-api-mongodb-mysql-aws#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
