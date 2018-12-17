@@ -4,6 +4,7 @@
   "description": "A node restful products API that uses mongodb and hosted on the AWS cloud",
   "main": "index.js",
   "scripts": {
+  
     "test": "jest"
   },
   "repository": {
